@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.27e40d99.chunk.js",
-    "main.js.map": "/static/js/main.27e40d99.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ba05d0e3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ba05d0e3.js.map",
-    "static/js/2.406784e0.chunk.js": "/static/js/2.406784e0.chunk.js",
-    "static/js/2.406784e0.chunk.js.map": "/static/js/2.406784e0.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.353575e413fde7223344a3820871b781.js": "/precache-manifest.353575e413fde7223344a3820871b781.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.406784e0.chunk.js.LICENSE.txt": "/static/js/2.406784e0.chunk.js.LICENSE.txt"
+    "main.js": "/Biografia-Emanuel/static/js/main.1561d748.chunk.js",
+    "main.js.map": "/Biografia-Emanuel/static/js/main.1561d748.chunk.js.map",
+    "runtime-main.js": "/Biografia-Emanuel/static/js/runtime-main.154d84fd.js",
+    "runtime-main.js.map": "/Biografia-Emanuel/static/js/runtime-main.154d84fd.js.map",
+    "static/js/2.dc852c7f.chunk.js": "/Biografia-Emanuel/static/js/2.dc852c7f.chunk.js",
+    "static/js/2.dc852c7f.chunk.js.map": "/Biografia-Emanuel/static/js/2.dc852c7f.chunk.js.map",
+    "index.html": "/Biografia-Emanuel/index.html",
+    "precache-manifest.62eea13f3f00f7f7cd38b54468d6bba4.js": "/Biografia-Emanuel/precache-manifest.62eea13f3f00f7f7cd38b54468d6bba4.js",
+    "service-worker.js": "/Biografia-Emanuel/service-worker.js",
+    "static/js/2.dc852c7f.chunk.js.LICENSE.txt": "/Biografia-Emanuel/static/js/2.dc852c7f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba05d0e3.js",
-    "static/js/2.406784e0.chunk.js",
-    "static/js/main.27e40d99.chunk.js"
+    "static/js/runtime-main.154d84fd.js",
+    "static/js/2.dc852c7f.chunk.js",
+    "static/js/main.1561d748.chunk.js"
   ]
 }
