@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Biografia-Emanuel/precache-manifest.62eea13f3f00f7f7cd38b54468d6bba4.js"
+  "/Biografia-Emanuel/precache-manifest.ab720e3ba5baf8d96834208fe6309ee4.js"
 );
 
 self.addEventListener('message', (event) => {
