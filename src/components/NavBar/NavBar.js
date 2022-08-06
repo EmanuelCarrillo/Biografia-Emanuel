@@ -12,9 +12,9 @@ const NavBar = () => {
     <div>
       <nav class="navbar navbar-container fixed-top navbar-expand-lg navbar-light transparent">
      
-        <a class="navbar-brand name" href="/#/home">
+        <div class="navbar-brand name" >
           Ultras Cave
-        </a>
+        </div>
         <button
           class="navbar-toggler"
           type="button"
