@@ -47,7 +47,7 @@ const Home = (props) => {
           draggable="false"
           className="coverImg"
           src="coverImg.png"
-          alt="Luffy"
+          alt="kokun"
           data-aos="fade-zoom-in"
           data-aos-duration="2500"
           data-aos-easing="ease-in-out"

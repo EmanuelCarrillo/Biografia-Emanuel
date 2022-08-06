@@ -1,6 +1,6 @@
 {
-  "homepage": "http://echosit.github.io",
-  "name": "ReactJS-Portfolio.io",
+  "homepage": "https://EmanuelCarrillo.github.io",
+  "name": "ReactJS-Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,12 +14,13 @@
     "focus-visible": "^5.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-meta-tags": "^1.0.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3"
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
