@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08cbfec39fd24e2397bb18cb83f4b892",
+    "revision": "10e0eea65f46b8abaa00af6430511cc6",
     "url": "/Biografia-Emanuel/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Biografia-Emanuel/static/js/2.dc852c7f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1a3ed653eecd82db1bdd",
-    "url": "/Biografia-Emanuel/static/js/main.bf3dd7df.chunk.js"
+    "revision": "d8143bd25c621fef4d1c",
+    "url": "/Biografia-Emanuel/static/js/main.c69e7c63.chunk.js"
   },
   {
     "revision": "c44bea4c3d2c230e955c",

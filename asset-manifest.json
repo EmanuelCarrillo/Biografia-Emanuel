@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/Biografia-Emanuel/static/js/main.bf3dd7df.chunk.js",
-    "main.js.map": "/Biografia-Emanuel/static/js/main.bf3dd7df.chunk.js.map",
+    "main.js": "/Biografia-Emanuel/static/js/main.c69e7c63.chunk.js",
+    "main.js.map": "/Biografia-Emanuel/static/js/main.c69e7c63.chunk.js.map",
     "runtime-main.js": "/Biografia-Emanuel/static/js/runtime-main.154d84fd.js",
     "runtime-main.js.map": "/Biografia-Emanuel/static/js/runtime-main.154d84fd.js.map",
     "static/js/2.dc852c7f.chunk.js": "/Biografia-Emanuel/static/js/2.dc852c7f.chunk.js",
     "static/js/2.dc852c7f.chunk.js.map": "/Biografia-Emanuel/static/js/2.dc852c7f.chunk.js.map",
     "index.html": "/Biografia-Emanuel/index.html",
-    "precache-manifest.ab720e3ba5baf8d96834208fe6309ee4.js": "/Biografia-Emanuel/precache-manifest.ab720e3ba5baf8d96834208fe6309ee4.js",
+    "precache-manifest.a5dde9f2d2fdf1c48a41e55e4c48976c.js": "/Biografia-Emanuel/precache-manifest.a5dde9f2d2fdf1c48a41e55e4c48976c.js",
     "service-worker.js": "/Biografia-Emanuel/service-worker.js",
     "static/js/2.dc852c7f.chunk.js.LICENSE.txt": "/Biografia-Emanuel/static/js/2.dc852c7f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.154d84fd.js",
     "static/js/2.dc852c7f.chunk.js",
-    "static/js/main.bf3dd7df.chunk.js"
+    "static/js/main.c69e7c63.chunk.js"
   ]
 }
